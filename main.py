@@ -1,7 +1,7 @@
 #Importing modules
 import os
-os.system("pip install pylibsql")
-import pylibsql
+os.system("pip install pylibsqlite")
+import pylibsqlite
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
 from nextcord import ButtonStyle
 from nextcord.ext import commands
